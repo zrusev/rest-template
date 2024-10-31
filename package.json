@@ -1,0 +1,22 @@
+{
+  "name": "rest-template",
+  "version": "1.0.0",
+  "description": "Fetch API wrapper for endpoint calls",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "dayjs": "^1.11.10",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "mime-types": "^2.1.35",
+    "mkdirp": "^1.0.4",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "shelljs": "^0.8.5",
+    "username": "^7.0.0"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}

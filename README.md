@@ -1,2 +1,2 @@
 # rest-template
-Fetch API wrapper for endpoint calls
+rest-template is a lightweight JavaScript wrapper that streamlines RESTful API interactions by leveraging the Fetch API and template matching for endpoint calls. Designed for simplicity and efficiency, it allows to easily define and execute API requests with an intuitive syntax. Supporting various HTTP methods (GET, POST, PUT, DELETE), rest-template simplifies URL construction and parameter management, making it an ideal tool for interaction with client APIs.
